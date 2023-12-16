@@ -3,8 +3,8 @@ source 'https://rubygems.org'
 ruby '3.2.2'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem 'rails', '~> 7.1.2'
 gem 'psych', '~> 4.0.1'
+gem 'rails', '~> 7.1.2'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 1.1'
 
